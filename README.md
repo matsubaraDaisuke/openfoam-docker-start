@@ -3,6 +3,7 @@ Docker上でfundation版OpenFOAMの開発環境を構築するためのリポジ
 
 # 環境構築
 ``` terminal
+$ git clone git@github.com:matsubaraDaisuke/openfoam-docker-start.git
 $ docker-compose up --build
 $ docker-compose run openfoam /bin/sh
 ```
