@@ -1,0 +1,2 @@
+# openfoam-docker-start
+Docker上でfundation版OpenFOAMの開発環境を構築するためのリポジトリ
