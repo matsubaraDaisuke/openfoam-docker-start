@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+    openfoam:
+      container_name: openfoam
+      build: ./docker/openfoam
+      volumes:
+      - ./of-develop:/home/openfoam
+
